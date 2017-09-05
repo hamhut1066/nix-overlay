@@ -8,6 +8,6 @@ latest = {
   } // (import ./firefox-overlay.nix self super).latest;
 
   overlay = {
-    wsgidav = (import ./wsgidav self super);
+    wsgidav = (import ./python/wsgidav self super);
   };
 }

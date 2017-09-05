@@ -152,6 +152,7 @@ in python.withPackages
    (fix' (pkgs.lib.fold
             extends
             generated
+            commonOverrides
             ([overrides] ++ commonOverrides)
          )
    )
