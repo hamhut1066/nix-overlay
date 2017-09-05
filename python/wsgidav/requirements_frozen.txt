@@ -1,0 +1,8 @@
+appdirs==1.4.3
+cheroot==5.8.3
+defusedxml==0.5.0
+packaging==16.8
+pyparsing==2.2.0
+setuptools-scm==1.15.6
+six==1.10.0
+WsgiDAV==2.2.4
