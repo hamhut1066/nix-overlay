@@ -1,0 +1,6 @@
+* Nix Overlay
+This is a nix overlay containing a few things.
+
+- A direct clone of the nixpkgs-mozilla overlay.
+- Nixified packages
+- Overrides to already nixified packages 
